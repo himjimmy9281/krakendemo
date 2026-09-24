@@ -1,2 +1,2 @@
 # krakendemo
-Create and publish with GitKraken
+Create and publish with GitKraken at class
